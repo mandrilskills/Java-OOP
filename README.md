@@ -18,12 +18,6 @@ Welcome to the **Guess the Number** game! This is a simple Java console-based pr
    - **Correct**
 4. The game ends when you guess the correct number. It will display the total number of attempts.
 
-## Example
-
-Here’s a sample README.md for a "Guess the Number" game written in Java:
-
-markdown
-Copy code
 # Guess the Number Game in Java
 
 Welcome to the **Guess the Number** game! This is a simple Java console-based program where the player tries to guess a randomly selected number within a certain range. The game provides feedback on whether the guess was too high, too low, or correct.
